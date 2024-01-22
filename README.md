@@ -7,16 +7,15 @@
 2.  🛠️ Master the creation and management of Dynamic Tables in Snowflake.
     
 ## 📚 Table of Contents
-
--   [🚀 Snowflake Dynamic Tables Tutorial](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables#-Snowflake-Dynamic-Tables-Tutorial)
-    -   [🎯 Learning Objectives](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables#-learning-objectives)
-    -   [📚 Table of Contents](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables#-table-of-contents)
-        -   [🎉 Introduction](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables#-introduction)
-        -   [📝 Introduction to Dynamic Tables in Snowflake](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables#-introduction-to-dynamic- tables-in-snowflake)
-        -   [💡Tutorial](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables#tutorial)
-        -   [🎈 Conclusion](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables#-conclusion)
-    -   [📖 Additional Resources](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables#-additional-resources)
-    -   [⚠️  Disclaimer](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables#%EF%B8%8F-disclaimer)
+- [🚀 Snowflake Dynamic Tables Tutorial](#-snowflake-dynamic-tables-tutorial)
+  - [🎯 Learning Objectives](#-learning-objectives)
+  - [📚 Table of Contents](#-table-of-contents)
+    - [🎉 Introduction](#-introduction)
+    - [📝 Introduction to Dynamic Tables in Snowflake](#-introduction-to-dynamic-tables-in-snowflake)
+  - [💡Tutorial](#tutorial)
+  - [🎈 Conclusion](#-conclusion)
+  - [📖 Additional Resources](#-additional-resources)
+  - [⚠️  Disclaimer](#️--disclaimer)
 
 ### 🎉 Introduction
 
@@ -32,15 +31,15 @@ You are able to manage Dynamic Tables easily using commands such as `ALTER DYNAM
 
 To use Dynamic Tables within Snowflake, there is a need for a dedicated warehouse resource, and is based on the **user-managed compute model**, where you specify an existing virtual warehouse.
 
-### 💡Tutorial
+## 💡Tutorial
 
 In this tutorial, we’ll be exploring how to construct a database, schema, and table within Snowflake. We’ll also delve into creating a collection of Dynamic Tables, and implementing the concept of [STAR Schema](https://en.wikipedia.org/wiki/Star_schema) data modelling based off of the data.
 
-[Link to Tutorial](<Link_Here>)
+[Link to Tutorial](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables/tree/main/Tutorial)
 
 By the end of this tutorial, you’ll have gained a comprehensive understanding of how to leverage one of Snowflake’s newest features to efficiently create a ETL/ELT pipeline, with minimal effort.
 
-### 🎈 Conclusion
+## 🎈 Conclusion
 
 In conclusion, Dynamic Tables are a powerful feature now available through [Public Preview](https://docs.snowflake.com/en/release-notes/preview-features), with the ability to create objects that refresh without the need for additional objects such as stored procedures or tasks. Dynamic Tables provide Engineers and Citizen Developers a new tool in their arsenal to transform data within the Snowflake platform.
 
