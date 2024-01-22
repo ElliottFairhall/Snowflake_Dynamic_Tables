@@ -35,7 +35,7 @@ To use Dynamic Tables within Snowflake, there is a need for a dedicated warehous
 
 In this tutorial, we’ll be exploring how to construct a database, schema, and table within Snowflake. We’ll also delve into creating a collection of Dynamic Tables, and implementing the concept of [STAR Schema](https://en.wikipedia.org/wiki/Star_schema) data modelling based off of the data.
 
-[Link to Tutorial](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables/tree/main/Tutorial)
+[Link to Tutorial](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables/blob/main/Tutorial/DYNAMICTABLETUTORIAL.md)
 
 By the end of this tutorial, you’ll have gained a comprehensive understanding of how to leverage one of Snowflake’s newest features to efficiently create a ETL/ELT pipeline, with minimal effort.
 
